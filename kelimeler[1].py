@@ -1,0 +1,1 @@
+words_list=["saat","bilgisayar","çilek","okul","kestane","dershane","solucan","orangutan","saksı","tartı","tenis","sokak"]
